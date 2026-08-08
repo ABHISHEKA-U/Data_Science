@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Python distribution
+*.egg-info/
+dist/
+build/
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

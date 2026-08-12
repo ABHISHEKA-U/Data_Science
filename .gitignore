@@ -32,7 +32,8 @@ build/
 *.pt
 
 # Datasets
-*.csv
+Datasets/
+#*.csv
 *.xlsx
 *.xls
 *.zip
